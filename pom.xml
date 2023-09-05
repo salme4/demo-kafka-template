@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <kafka.clients>2.1.0</kafka.clients>
+        <kafka.clients>2.6.3</kafka.clients>
     </properties>
 
     <dependencies>
